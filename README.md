@@ -18,7 +18,7 @@ PRE-RELEASE
     6. apt install python2 && apt install python3
     7. git clone https://github.com/MrSanZz/pandorav2
     8. cd pandorav2
-    9. pip3 install -r requirements.txt
+    9. pip3 install -r linux.txt
     10. python3 pandorav2.py
 
     Linux:
@@ -32,7 +32,7 @@ PRE-RELEASE
     6. apt install git
     7. git clone https://github.com/MrSanZz/pandorav2
     8. cd pandorav2
-    9. pip3 install -r requirements.txt
+    9. pip3 install -r linux.txt
     10. python3 pandorav2.py
 
     Termux:
@@ -45,7 +45,7 @@ PRE-RELEASE
     6. pkg install figlet
     7. git clone https://github.com/MrSanZz/pandorav2
     8. cd pandorav2
-    9. pip3 install -r requirements.txt
+    9. pip3 install -r termux.txt (use termux_root.txt if your phone is rooted)
     10. python3 pandorav2.py
 ```
 <span>We are JogjaXploit</span>
