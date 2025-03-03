@@ -1,0 +1,12 @@
+terminaltables
+bottle
+colorama
+requests
+aiohttp
+httpx
+psutil
+cloudscraper
+socks
+pycryptodome
+fake-useragent
+colored
