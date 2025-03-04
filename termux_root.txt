@@ -7,6 +7,8 @@ httpx
 psutil
 cloudscraper
 socks
+google
+undetected_chromedriver
 pycryptodome
 fake-useragent
 colored
