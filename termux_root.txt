@@ -8,6 +8,7 @@ psutil
 cloudscraper
 socks
 google
+pysocks
 wget
 undetected_chromedriver
 pycryptodome
