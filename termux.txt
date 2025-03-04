@@ -4,6 +4,8 @@ colorama
 requests
 aiohttp
 httpx
+google
+undetected_chromedriver
 psutil
 cloudscraper
 socks
