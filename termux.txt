@@ -10,5 +10,6 @@ psutil
 cloudscraper
 socks
 pycryptodome
+wget
 fake-useragent
 colored
