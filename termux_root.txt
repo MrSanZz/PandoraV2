@@ -7,7 +7,6 @@ httpx
 psutil
 cloudscraper
 socks
-pillow
 pycryptodome
 fake-useragent
 colored
