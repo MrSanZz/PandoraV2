@@ -6,7 +6,6 @@ aiohttp
 httpx
 psutil
 cloudscraper
-pillow
 socks
 pycryptodome
 fake-useragent
