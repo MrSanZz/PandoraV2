@@ -8,6 +8,7 @@ psutil
 cloudscraper
 socks
 google
+wget
 undetected_chromedriver
 pycryptodome
 fake-useragent
