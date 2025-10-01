@@ -1,5 +1,5 @@
 # PandoraV2
-PRE-RELEASE
+PRE-RELEASE | Modifying/Recoding code is allowed
 <p align="center">
 <img src="https://img.shields.io/badge/build-MrSanZz-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
 # Install Steps
